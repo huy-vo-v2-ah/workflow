@@ -14,6 +14,30 @@ brew install fzf \
 fzf
 ```
 
+### Common commands
+
+```
+cd /path/to/dir
+```
+
+```
+grep "search term" -r .
+``` 
+
+```
+ls -l
+```
+
+
+```
+cat file.txt
+```
+
+
+```
+cat file.txt | grep -i "search term"
+```
+
 
 
 ## Navigate directory
