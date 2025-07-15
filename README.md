@@ -24,3 +24,7 @@ fzf
 
 
 ## Neovim
+
+```
+brew install nvim
+```
