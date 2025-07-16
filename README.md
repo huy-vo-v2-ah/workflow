@@ -79,6 +79,12 @@ brew install z
 ### dotnet 
 
 ```
+which dotnet
+/usr/local/bin/dotnet
+```
+
+
+```
 dotnet test 
 ```
 
