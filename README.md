@@ -101,3 +101,8 @@ dotnet clean
 brew install nvim
 ```
 
+### Mangement of env variables 
+
+```
+https://direnv.net/
+```
