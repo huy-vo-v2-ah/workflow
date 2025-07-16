@@ -8,10 +8,18 @@ brew install fzf \
     fd
 ```
 
+
+### Best terminal emulator
+
+```
+
+brew install iterm2
+```
+
 ## Helpers
 
 ```
-fzf
+brew install fzf
 ```
 
 ### Common commands
@@ -45,6 +53,23 @@ cat file.txt | grep -i "search term"
 
 ## Search files
 
+### dotnet 
+
+```
+dotnet test 
+```
+
+```
+dotnet run
+```
+
+```
+dotnet clean
+```
+
+
+
+
 
 
 ## Neovim
@@ -52,3 +77,4 @@ cat file.txt | grep -i "search term"
 ```
 brew install nvim
 ```
+
