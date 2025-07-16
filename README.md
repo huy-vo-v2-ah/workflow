@@ -100,6 +100,13 @@ dotnet clean
 
 ```
 brew install nvim
+
+
+Custom configuration via:
+https://www.lua.org/
+
+~/.config/nvim
+
 ```
 
 ### Mangement of env variables 
