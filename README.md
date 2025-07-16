@@ -96,11 +96,6 @@ dotnet run
 dotnet clean
 ```
 
-
-
-
-
-
 ## Neovim
 
 ```
@@ -111,4 +106,10 @@ brew install nvim
 
 ```
 https://direnv.net/
+```
+
+### Section Mangement
+
+```
+brew install tmux
 ```
