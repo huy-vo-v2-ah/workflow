@@ -16,6 +16,27 @@ brew install fzf \
 brew install iterm2
 ```
 
+### Shell
+
+```
+brew install zsh \
+    zsh-autosuggestions \
+    zsh-syntax-highlighting
+```
+
+*** Example
+```
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+plugins=(
+  git
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+  # docker
+  # z
+)
+```
+
 ## Helpers
 
 ```
