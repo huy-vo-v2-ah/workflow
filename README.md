@@ -126,7 +126,7 @@ https://www.lua.org/
 https://direnv.net/
 ```
 
-### Section Mangement
+### Session Mangement
 
 ```
 brew install tmux
