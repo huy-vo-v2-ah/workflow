@@ -50,7 +50,9 @@ cat file.txt | grep -i "search term"
 
 ## Navigate directory
 
-
+```
+brew install z
+```
 ## Search files
 
 ### dotnet 
