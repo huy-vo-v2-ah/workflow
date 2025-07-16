@@ -76,6 +76,17 @@ brew install z
 ```
 ## Search files
 
+Contents:
+```
+brew install ripgrep 
+```
+
+Names of files
+```
+brew install fd
+```
+
+
 ### dotnet 
 
 ```
